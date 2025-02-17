@@ -71,7 +71,7 @@
                 </div>
                 <div class="col-xl col-xxl-6 align-self-center">
                     <div class="title-area">
-                        <span class="sec-subtitle">Have Any questions? so plese</span>
+                        <span class="sec-subtitle">Have Any questions?</span>
                         <h2 class="sec-title">Feel Free to Contact!</h2>
                     </div>
                     <form action="{{ route('contact.store')}}" class="form-style3 layout2 ajax-contact" method="POST">

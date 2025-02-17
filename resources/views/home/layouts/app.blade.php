@@ -365,12 +365,8 @@
                             <div class="menu-all-pages-container footer-menu">
                                 <ul class="menu">
                                     <li><a href="#">Education</a></li>
-                                    <li><a href="#">HealthCare</a></li>
-                                    <li><a href="#">Advocate</a></li>
-                                    <li><a href="#">Membership Options</a></li>
-                                    <li><a href="#">Become Partner</a></li>
-                                    <li><a href="#">Sponsorship</a></li>
-                                    <li><a href="#">Contact Us</a></li>
+                                    <li><a href="#">Religion</a></li>
+                                    <li><a href="#">Philanthropy</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -390,7 +386,7 @@
                         </div>
                     </div>
                     <div class="col-lg-auto">
-                        <p class="copyright-text ">Copyright &copy; 2024 <a href="{{ route('home.index')}}">Mwalimu Junior School</a>. All Rights
+                        <p class="copyright-text ">Copyright &copy; {{ date('Y')}} <a href="{{ route('home.index')}}">Mwalimu Junior School</a>. All Rights
                             Reserved <a href="https://veikeagency.com">Developed by Veike Agency</a></p>
                     </div>
                 </div>
