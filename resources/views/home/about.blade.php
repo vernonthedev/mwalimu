@@ -109,7 +109,6 @@
 
     <section class="space-top space-extra-bottom bg-smoke">
         <video autoplay loop muted playsinline class="section-video">
-          <source src="{{ asset('assets/video/advert.mp4') }}" type="video/mp4">
           <source src="{{ asset('assets/video/advert.webm') }}" type="video/webm">
           Your browser does not support HTML5 video.
         </video>
