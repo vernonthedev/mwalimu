@@ -136,7 +136,7 @@
                         <h3 class="feature-title h5"> Founding of the School</h3>
                         <p class="feature-text">Mwalimu Junior School was established in 2010 with a mission to provide quality education to young learners in a nurturing and stimulating environment. Starting with just two classrooms, the school quickly became a beacon of hope for education in the community.</p>
                         <div class="feature-img">
-                            <a href="#"><img src="{{ asset('assets/img/mwalimu.png')}}" alt="feature"></a>
+                            <a href="#"><img src="{{ asset('assets/images/mwalimu (9).jpg')}}" alt="Mwalimu Junior School Compound Image"></a>
                         </div>
                     </div>
                 </div>
@@ -146,7 +146,7 @@
                         <h3 class="feature-title h5">Expansion and Growth</h3>
                         <p class="feature-text">By 2015, Mwalimu Junior School had expanded significantly, adding new classrooms, a library, and a computer lab. This growth allowed the school to accommodate more students and introduce innovative teaching methods, solidifying its reputation as a leading educational institution</p>
                         <div class="feature-img">
-                            <a href="#"><img src="{{ asset('assets/img/mwalimu.png')}}" alt="feature"></a>
+                            <a href="#"><img src="{{ asset('assets/images/mwalimu (1).jpg')}}" alt="Mwalimu Junior School Compound Images"></a>
                         </div>
                     </div>
                 </div>
@@ -156,7 +156,7 @@
                         <h3 class="feature-title h5">Introduction of Extracurricular Programs</h3>
                         <p class="feature-text">In 2018, the school introduced a variety of extracurricular programs, including sports, music, and drama. These programs aimed to provide holistic development for students, fostering creativity and teamwork beyond the classroom</p>
                         <div class="feature-img">
-                            <a href="#"><img src="{{ asset('assets/img/mwalimu.png')}}" alt="feature"></a>
+                            <a href="#"><img src="{{ asset('assets/images/mwalimu (6).jpg')}}" alt="Mwalimu Junior School Compound Images"></a>
                         </div>
                     </div>
                 </div>
@@ -166,7 +166,7 @@
                         <h3 class="feature-title h5">Digital Transformation and Modern Facilities</h3>
                         <p class="feature-text">In 2023, Mwalimu Junior School embraced digital learning by integrating smart classrooms and online resources. With state-of-the-art facilities and a forward-thinking curriculum, the school continues to empower learners for the future</p>
                         <div class="feature-img">
-                            <a href="#"><img src="{{ asset('assets/img/mwalimu.png')}}" alt="feature"></a>
+                            <a href="#"><img src="{{ asset('assets/images/mwalimu (7).jpg')}}" alt="Mwalimu Junior School Compound Images"></a>
                         </div>
                     </div>
                 </div>
@@ -190,7 +190,7 @@
                 <div class="col-md-6 col-xl-auto order-2 order-xl-1">
                     <div class="feature-style3">
                         <div class="feature-img">
-                            <div class="img"><img src="{{ asset('assets/images/pathfinder.png')}}" alt="feature"></div>
+                            <div class="img"><img src="{{ asset('assets/images/pathfinder.png')}}" alt="Clubs at Mwalimu Junior School Mityana"></div>
                         </div>
                         <div class="feature-body">
                             <h3 class="feature-title h4">Pathfinder Club</h3>
@@ -203,7 +203,7 @@
                     </div>
                     <div class="feature-style3">
                         <div class="feature-img">
-                            <div class="img"><img src="{{ asset('assets/img/mwalimu.png')}}" alt="feature"></div>
+                            <div class="img"><img src="{{ asset('assets/images/mwalimuImage-no.8.jpg')}}" alt="Clubs at Mwalimu Junior School Mityana"></div>
                         </div>
                         <div class="feature-body">
                             <h3 class="feature-title h4">Drama Club</h3>
@@ -223,7 +223,7 @@
                 <div class="col-md-6 col-xl-auto  order-3 order-xl-3">
                     <div class="feature-style3">
                         <div class="feature-img">
-                            <div class="img"><img src="{{ asset('assets/img/mwalimu.png')}}" alt="feature"></div>
+                            <div class="img"><img src="{{ asset('assets/images/mwalimuImage-no.4.jpg')}}" alt="Clubs at Mwalimu Junior School Mityana"></div>
                         </div>
                         <div class="feature-body">
                             <h3 class="feature-title h4">Home Management </h3>
@@ -236,7 +236,7 @@
                     </div>
                     <div class="feature-style3">
                         <div class="feature-img">
-                            <div class="img"><img src="{{ asset('assets/img/mwalimu.png')}}" alt="feature"></div>
+                            <div class="img"><img src="{{ asset('assets/images/mwalimu (11).jpg')}}" alt="Clubs at Mwalimu Junior School Mityana"></div>
                         </div>
                         <div class="feature-body">
                             <h3 class="feature-title h4">Mwalimu Sports Club</h3>
@@ -317,7 +317,7 @@
                     <div class="feature-style2">
                         <div class="feature-img">
                             <div class="vs-circle"></div>
-                            <img src="{{ asset('assets/images/mwalimuImage-no.3.jpg')}}" alt="image" width="80%">
+                            <img src="{{ asset('assets/images/mwalimu (10).jpg')}}" alt="image" width="80%">
                         </div>
                         <h3 class="feature-title h5"><a href="#" class="text-inherit">Respect</a></h3>
                         <p class="feature-text">We believe in creating a safe, secure learning environment where
@@ -354,7 +354,7 @@ learning.
                     <div class="feature-style2">
                         <div class="feature-img">
                             <div class="vs-circle"></div>
-                            <img src="{{ asset('assets/images/mwalimuImage-no.4.jpg')}}" alt="image" width="80%">
+                            <img src="{{ asset('assets/images/mwalimu (6).jpg')}}" alt="image" width="80%">
                         </div>
                         <h3 class="feature-title h5"><a href="#" class="text-inherit">Responsibility</a></h3>
                         <p class="feature-text">We believe that motivating students to become independent learners leads to taking responsibility for their own learning..</p>
@@ -381,6 +381,7 @@ learning.
                 </div>
             </div>
             <div class="row gx-35 gy-gx filter-active">
+
                 <div class="col-sm-6 col-lg-4 col-xl-3 filter-item">
                     <div class="gallery-style1">
                         <div class="gallery-img">
@@ -390,42 +391,88 @@ learning.
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-lg-4 col-xl-3 filter-item">
-                    <div class="gallery-style1 radius-2">
-                        <div class="gallery-img">
-                            <img src="{{asset('assets/images/mwalimuImage-no.22.jpg')}}" alt="gallery">
-                            <a href="{{asset('assets/images/mwalimuImage-no.22.jpg')}}" class="gallery-btn popup-image"><i
-                                    class="far fa-plus"></i></a>
-                        </div>
-                    </div>
-                </div>
+
                 <div class="col-sm-6 col-lg-4 col-xl-3 filter-item">
                     <div class="gallery-style1">
                         <div class="gallery-img">
-                            <img src="{{asset('assets/images/mwalimuImage-no.22.jpg')}}" alt="gallery">
-                            <a href="{{asset('assets/images/mwalimuImage-no.22.jpg')}}" class="gallery-btn popup-image"><i
+                            <img src="{{asset('assets/images/mwalimu (3).jpg')}}" alt="gallery">
+                            <a href="{{asset('assets/images/mwalimu (3).jpg')}}" class="gallery-btn popup-image"><i
                                     class="far fa-plus"></i></a>
                         </div>
                     </div>
                 </div>
+
                 <div class="col-sm-6 col-lg-4 col-xl-3 filter-item">
                     <div class="gallery-style1">
                         <div class="gallery-img">
-                            <img src="{{asset('assets/images/mwalimuImage-no.22.jpg')}}" alt="gallery">
-                            <a href="{{asset('assets/images/mwalimuImage-no.22.jpg')}}" class="gallery-btn popup-image"><i
+                            <img src="{{asset('assets/images/mwalimu (7).jpg')}}" alt="gallery">
+                            <a href="{{asset('assets/images/mwalimu (7).jpg')}}" class="gallery-btn popup-image"><i
                                     class="far fa-plus"></i></a>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-lg-4 col-xl-3 filter-item radius-3">
+
+                <div class="col-sm-6 col-lg-4 col-xl-3 filter-item">
                     <div class="gallery-style1">
                         <div class="gallery-img">
-                            <img src="{{asset('assets/images/mwalimuImage-no.11.JPG')}}" alt="gallery">
-                            <a href="{{asset('assets/images/mwalimuImage-no.11.JPG')}}" class="gallery-btn popup-image"><i
+                            <img src="{{asset('assets/images/mwalimu (8).jpg')}}" alt="gallery">
+                            <a href="{{asset('assets/images/mwalimu (8).jpg')}}" class="gallery-btn popup-image"><i
                                     class="far fa-plus"></i></a>
                         </div>
                     </div>
                 </div>
+
+                <div class="col-sm-6 col-lg-4 col-xl-3 filter-item">
+                    <div class="gallery-style1">
+                        <div class="gallery-img">
+                            <img src="{{asset('assets/images/mwalimu (5).jpg')}}" alt="gallery">
+                            <a href="{{asset('assets/images/mwalimu (5).jpg')}}" class="gallery-btn popup-image"><i
+                                    class="far fa-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-4 col-xl-3 filter-item">
+                    <div class="gallery-style1">
+                        <div class="gallery-img">
+                            <img src="{{asset('assets/images/mwalimu (9).jpg')}}" alt="gallery">
+                            <a href="{{asset('assets/images/mwalimu (9).jpg')}}" class="gallery-btn popup-image"><i
+                                    class="far fa-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-4 col-xl-3 filter-item">
+                    <div class="gallery-style1">
+                        <div class="gallery-img">
+                            <img src="{{asset('assets/images/mwalimu (10).jpg')}}" alt="gallery">
+                            <a href="{{asset('assets/images/mwalimu (10).jpg')}}" class="gallery-btn popup-image"><i
+                                    class="far fa-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-4 col-xl-3 filter-item">
+                    <div class="gallery-style1">
+                        <div class="gallery-img">
+                            <img src="{{asset('assets/images/mwalimu (2).jpg')}}" alt="gallery">
+                            <a href="{{asset('assets/images/mwalimu (2).jpg')}}" class="gallery-btn popup-image"><i
+                                    class="far fa-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-4 col-xl-3 filter-item">
+                    <div class="gallery-style1">
+                        <div class="gallery-img">
+                            <img src="{{asset('assets/images/mwalimu (4).jpg')}}" alt="gallery">
+                            <a href="{{asset('assets/images/mwalimu (4).jpg')}}" class="gallery-btn popup-image"><i
+                                    class="far fa-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+
             </div>
         </div>
     </section><!--==============================
@@ -436,7 +483,7 @@ learning.
             <div class="row justify-content-between text-center text-md-start">
                 <div class="col-md-auto">
                     <div class="title-area">
-                        <span class="sec-subtitle">Service Reviews</span>
+                        <span class="sec-subtitle">Our Service Reviews</span>
                         <h2 class="sec-title">What Parents Say</h2>
                     </div>
                 </div>
@@ -503,71 +550,63 @@ learning.
                 <h2 class="sec-title">Follow Us On @tiktok</h2>
             </div>
             <div class="row vs-carousel" data-slide-show="6" data-lg-slide-show="5" data-md-slide-show="4"
-                data-sm-slide-show="3" data-xs-slide-show="2">
-                <div class="col-auto">
-                    <div class="gallery-style1">
-                        <div class="gallery-img">
-                            <img src="{{asset('assets/img/mwalimu.png')}}" alt="gallery">
-                            <a href="{{asset('assets/img/mwalimu.png')}}" class="gallery-btn popup-image"><i
-                                    class="far fa-plus"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-auto">
-                    <div class="gallery-style1">
-                        <div class="gallery-img">
-                            <img src="{{asset('assets/img/mwalimu.png')}}" alt="gallery">
-                            <a href="{{asset('assets/img/mwalimu.png')}}" class="gallery-btn popup-image"><i
-                                    class="far fa-plus"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-auto">
-                    <div class="gallery-style1">
-                        <div class="gallery-img">
-                            <img src="{{asset('assets/img/mwalimu.png')}}" alt="gallery">
-                            <a href="{{asset('assets/img/mwalimu.png')}}" class="gallery-btn popup-image"><i
-                                    class="far fa-plus"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-auto">
-                    <div class="gallery-style1">
-                        <div class="gallery-img">
-                            <img src="{{asset('assets/img/mwalimu.png')}}" alt="gallery">
-                            <a href="{{asset('assets/img/mwalimu.png')}}" class="gallery-btn popup-image"><i
-                                    class="far fa-plus"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-auto">
-                    <div class="gallery-style1">
-                        <div class="gallery-img">
-                            <img src="{{asset('assets/img/mwalimu.png')}}" alt="gallery">
-                            <a href="{{asset('assets/img/mwalimu.png')}}" class="gallery-btn popup-image"><i
-                                    class="far fa-plus"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-auto">
-                    <div class="gallery-style1">
-                        <div class="gallery-img">
-                            <img src="{{asset('assets/img/mwalimu.png')}}" alt="gallery">
-                            <a href="{{asset('assets/img/mwalimu.png')}}" class="gallery-btn popup-image"><i
-                                    class="far fa-plus"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-auto">
-                    <div class="gallery-style1">
-                        <div class="gallery-img">
-                            <img src="{{asset('assets/img/mwalimu.png')}}" alt="gallery">
-                            <a href="{{asset('assets/img/mwalimu.png')}}" class="gallery-btn popup-image"><i
-                                    class="far fa-plus"></i></a>
-                        </div>
-                    </div>
+            data-sm-slide-show="3" data-xs-slide-show="2">
+            <div class="col-auto">
+                {{-- <div class="gallery-style1"> --}}
+                    <div class="gallery-img">
+                        <a href="https://www.tiktok.com/@mwalimujuniorschools/video/7429699092927745285?is_from_webapp=1&sender_device=pc&web_id=7447580458597074438" target="_blank"> <img src="{{asset('assets/images/tiktok/one (1).png')}}" alt="gallery"></a>
+                    {{-- </div> --}}
                 </div>
             </div>
+            <div class="col-auto">
+                {{-- <div class="gallery-style1"> --}}
+                    <div class="gallery-img">
+                      
+                        <a href="https://www.tiktok.com/@mwalimujuniorschools/video/7441896399320419639?is_from_webapp=1&sender_device=pc&web_id=7447580458597074438" target="_blank">  <img src="{{asset('assets/images/tiktok/one (2).png')}}" alt="gallery"></a>
+                    </div>
+                {{-- </div> --}}
+            </div>
+            <div class="col-auto">
+                {{-- <div class="gallery-style1"> --}}
+                    <div class="gallery-img">
+                    
+                        <a href="https://www.tiktok.com/@mwalimujuniorschools/photo/7460917580656643334?is_from_webapp=1&sender_device=pc&web_id=7447580458597074438">    <img src="{{asset('assets/images/tiktok/one (3).png')}}" alt="gallery"></a>
+                    </div>
+                {{-- </div> --}}
+            </div>
+            <div class="col-auto">
+                {{-- <div class="gallery-style1"> --}}
+                    <div class="gallery-img">
+                   
+                        <a href="https://www.tiktok.com/@mwalimujuniorschools/photo/7449681635534064902?is_from_webapp=1&sender_device=pc&web_id=7447580458597074438">     <img src="{{asset('assets/images/tiktok/one (4).png')}}" alt="gallery"></a>
+                    {{-- </div> --}}
+                </div>
+            </div>
+            <div class="col-auto">
+                {{-- <div class="gallery-style1"> --}}
+                    <div class="gallery-img">
+                 
+                        <a href="https://www.tiktok.com/@mwalimujuniorschools/photo/7441685514899541303?is_from_webapp=1&sender_device=pc&web_id=7447580458597074438">       <img src="{{asset('assets/images/tiktok/one (5).png')}}" alt="gallery"></a>
+                    </div>
+                {{-- </div> --}}
+            </div>
+            <div class="col-auto">
+                {{-- <div class="gallery-style1"> --}}
+                    <div class="gallery-img">
+                        
+                        <a href="https://www.tiktok.com/@mwalimujuniorschools/video/7441590716674870584"><img src="{{asset('assets/images/tiktok/one (6).png')}}" alt="gallery"></a>
+                    {{-- </div> --}}
+                </div>
+            </div>
+            <div class="col-auto">
+                {{-- <div class="gallery-style1"> --}}
+                    <div class="gallery-img">
+                       
+                        <a href="https://www.tiktok.com/@mwalimujuniorschools/video/7435722510341426487?is_from_webapp=1&sender_device=pc&web_id=7447580458597074438"> <img src="{{asset('assets/images/tiktok/one (7).png')}}" alt="gallery"></a>
+                    </div>
+                {{-- </div> --}}
+            </div>
+        </div>
         </div>
     </section>
 
