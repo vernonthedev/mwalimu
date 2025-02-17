@@ -13,7 +13,7 @@
         <div class="container z-index-common">
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">Contact Us</h1>
-                <p class="breadcumb-text text-white">Montessori Is A Nurturing And Holistic Approach To Learning</p>
+                <p class="breadcumb-text text-white">The Future Begins Now</p>
                 <div class="breadcumb-menu-wrap">
                     <ul class="breadcumb-menu">
                         <li><a href="{{ route('home.index')}}">Home</a></li>
@@ -67,7 +67,7 @@
         <div class="container">
             <div class="row flex-row-reverse gx-60 justify-content-between">
                 <div class="col-xl-auto">
-                    <img src="{{asset('assets/images/mwalimuImage-no.6.JPG')}}" alt="Contact Mwalimu Junior School" width="589px" style="border-radius: 20px;">
+                    <img src="{{asset('assets/images/mwalimu (10).jpg')}}" alt="Contact Mwalimu Junior School" width="589px" style="border-radius: 20px;">
                 </div>
                 <div class="col-xl col-xxl-6 align-self-center">
                     <div class="title-area">
