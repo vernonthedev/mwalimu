@@ -8,15 +8,15 @@
     <!--==============================
     Breadcumb
 ============================== -->
-<div class="breadcumb-wrapper " data-bg-src="https://fakeimg.pl/1200x600?text=Board+Members">
+<div class="breadcumb-wrapper " data-bg-src="">
         <div class="container z-index-common">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Our Directors</h1>
-                <p class="breadcumb-text">Montessori Is A Nurturing And Holistic Approach To Learning</p>
+                <h1 class="breadcumb-title">Our Director</h1>
+                <p class="breadcumb-text">The Future Begins Now</p>
                 <div class="breadcumb-menu-wrap">
                     <ul class="breadcumb-menu">
                         <li><a href="{{ route('home.index')}}">Home</a></li>
-                        <li>Our Directors</li>
+                        <li>Our Founder</li>
                     </ul>
                 </div>
             </div>
@@ -24,78 +24,30 @@
     </div><!--==============================
     Team Area
     ==============================-->
-    <section class=" space-top space-extra-bottom">
+    <section class="space-top space-extra-bottom">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-sm-6">
-                    <div class="team-style1 layout2">
+                <div class="col-sm-12">
+                    <div class="team-style1">
                         <div class="team-img">
                             <a href="#"><img src="{{asset('assets/img/mwalimu.png')}}" alt="team"></a>
                         </div>
                         <div class="team-content">
-                            <h3 class="team-name h2"><a href="#" class="text-inherit">Mr Amanyire Collins</a>
+                            <h3 class="team-name h2"><a href="#" class="text-inherit">Mr. Robert Amanya</a>
                             </h3>
-                            <p class="team-degi">Headteacher</p>
-                            <a href="tel:+25670000000" class="team-number">+256 700 000 000</a>
+                            <p class="team-degi">Our Director</p>
                             <div class="vs-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
+                               <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat eum tenetur delectus, harum officiis neque iure doloremque deleniti dolorem illo! Rerum, est! Rem culpa nobis at recusandae, blanditiis facilis natus!
+                               </p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-6">
-                    <div class="team-style1 layout2">
-                        <div class="team-img">
-                            <a href="#"><img src="{{asset('assets/img/mwalimu.png')}}" alt="team"></a>
-                        </div>
-                        <div class="team-content">
-                            <h3 class="team-name h2"><a href="#" class="text-inherit">Mr Herbert Mugisha</a>
-                            </h3>
-                            <p class="team-degi">Director</p>
-                            <a href="tel:+25670000000" class="team-number">+256 700 000 000</a>
-                            <div class="vs-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6">
-                    <div class="team-style1 layout2">
-                        <div class="team-img">
-                            <a href="#"><img src="{{asset('assets/img/mwalimu.png')}}" alt="team"></a>
-                        </div>
-                        <div class="team-content">
-                            <h3 class="team-name h2"><a href="#" class="text-inherit">Ms Florence Namirembe</a>
-                            </h3>
-                            <p class="team-degi">Director</p>
-                            <a href="tel:+25670000000" class="team-number">+256 700 000 000</a>
-                            <div class="vs-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="text-center mt-30">
-                <div class="vs-pagination pt-md-3">
-                    <a href="#" class="pagi-btn">Prev</a>
-                    <ul>
-                        <li><a href="#">1</a></li>
-                        <li><a href="#">2</a></li>
-                        <li><a href="#">3</a></li>
-                        <li><a href="#">...</a></li>
-                        <li><a href="#">12</a></li>
-                    </ul>
-                    <a href="#" class="pagi-btn">next</a>
-                </div>
+
             </div>
         </div>
-    </section><!--==============================
-    Call To Action
-    ==============================-->
+    </section>
     <section class=" space-bottom">
         <div class="container">
             <div class="row justify-content-center text-center">

@@ -105,41 +105,23 @@
                                         <a href="{{ route('events')}}">Events</a>
                                     </li>
                     <li class="menu-item-has-children">
-                        <a href="#">Blogs</a>
+                        <a href="#">Articles</a>
                         <ul class="sub-menu">
-                            <li><a href="{{ route('blog')}}">School Writers</a></li>
+                            <li><a href="{{ route('blog')}}">MJS Writings</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children mega-menu-wrap">
                         <a href="#">More Info</a>
                         <ul class="mega-menu">
-                            <li><a href="#">About Mwalimu</a>
+                            <li><a href="#">More About MJS</a>
                                 <ul>
-                                    <li><a href="{{ route('about') }}">Our Teachers</a></li>
-                                    <li><a href="{{ route('board')}}">Board Of Directors</a></li>
-                                    <li><a href="#">Our Founder</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="#">School Facilities</a>
-                                <ul>
-                                    <li><a href="#">Nursery Section</a></li>
-                                    <li><a href="#">School Kitchen</a></li>
-                                    <li><a href="#">Computer Lab</a></li>
-                                    
+                                    <li><a href="{{route('board')}}">Our Founder</a></li>
                                 </ul>
                             </li>
                             <li><a href="#">Our Establishments</a>
                                 <ul>
                                 <li><a href="{{ route('investment')}}">Nvuyekure Investments</a></li>
-                                    <li><a href="#">School Writers Club</a></li>
-                                    <li><a href="#">Mwalimu Investments</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="{{ route('about')}}">Core Values</a>
-                                <ul>
-                                    <li><a href="{{ route('about')}}#vision">Vision & Mission</a></li>
-                                    <li><a href="{{ route('about')}}#religion">Religious Foundation</a></li>
-                                    <li><a href="{{ route('about')}}#apply">Apply To Mwalimu</a></li>
+                                    
                                 </ul>
                             </li>
                         </ul>
@@ -154,39 +136,6 @@
     <!--==============================
     Sidemenu
     ============================== -->
-    <div class="sidemenu-wrapper d-none d-lg-block  ">
-        <div class="sidemenu-content">
-            <button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
-            <div class="widget  ">
-                <div class="widget-about">
-                    <div class="footer-logo"><img src="{{ asset('assets/img/mwalimu.png')}}" alt="Kiddino"></div>
-                    <p class="mb-0">We are constantly expanding the range of services offered, taking care of children
-                        of all ages.</p>
-                </div>
-            </div>
-            <div class="widget  ">
-                <h3 class="widget_title">Get In Touch</h3>
-                <div>
-                    <p class="footer-text">Monday to Friday: <span class="time">8.30am – 06.00pm</span></p>
-                    <p class="footer-text">Saturday, Sunday: <span class="time">Close</span></p>
-                    <p class="footer-info"><i class="fal fa-envelope"></i>Email: <a
-                            href="mailto:info@mwalimujuniorschools.com">info@mwalimujuniorschools.com</a></p>
-                    <p class="footer-info"><i class="fas fa-mobile-alt"></i>Phone: <a href="tel:+256764307307">+256 764 307 307</a></p>
-                </div>
-            </div>
-
-        </div>
-    </div>
-    <!--==============================
-    Popup Search Box
-    ============================== -->
-    <div class="popup-search-box d-none d-lg-block  ">
-        <button class="searchClose"><i class="fal fa-times"></i></button>
-        <form action="#">
-            <input type="text" class="border-theme" placeholder="What are you looking for">
-            <button type="submit"><i class="fal fa-search"></i></button>
-        </form>
-    </div>
     <!--==============================
         Header Area
     ==============================-->
@@ -199,8 +148,6 @@
                             <ul>
                                 <li><a href="{{ route('home')}}"><i class="far fa-user-circle"></i>Login & Register</a>
                                 </li>
-                                <li><a href="#" class="searchBoxTggler"><i class="far fa-search"></i>Search
-                                        Keyword</a></li>
                             </ul>
                         </div>
                     </div>
@@ -240,42 +187,25 @@
                                         <a href="{{ route('events')}}">Events</a>
                                     </li>
                                     <li class="menu-item-has-children">
-                                        <a href="#">Blogs</a>
+                                        <a href="#">Articles</a>
                                         <ul class="sub-menu">
-                                            <li><a href="{{ route('blog')}}">School Writers</a></li>
+                                            <li><a href="{{ route('blog')}}">MJS Writings</a></li>
                                           
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children mega-menu-wrap">
                                         <a href="#">More Info</a>
                                         <ul class="mega-menu">
-                                            <li><a href="#">About Mwalimu</a>
+                                            <li><a href="#">More About MJS</a>
                                                 <ul>
-                                                    <li><a href="{{ route('about') }}">Our Teachers</a></li>
-                                                    <li><a href="{{ route('board')}}">Board Of Directors</a></li>
-                                                    <li><a href="#">Our Founder</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="#">School Facilities</a>
-                                                <ul>
-                                                    <li><a href="#">Nursery Section</a></li>
-                                                    <li><a href="#">School Kitchen</a></li>
-                                                    <li><a href="#">Computer Lab</a></li>
-                                                 
+
+                                                    <li><a href="{{route('board')}}">Our Founder</a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="#">Our Establishments</a>
                                                 <ul>
                                                 <li><a href="{{ route('investment')}}">Nvuyekure Investments</a></li>
-                                                    <li><a href="#">School Writers Club</a></li>
-                                                    <li><a href="#">Mwalimu Investments</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="{{ route('about')}}">Core Values</a>
-                                                <ul>
-                                                    <li><a href="{{ route('about')}}#vision">Vision & Mission</a></li>
-                                                    <li><a href="{{ route('about')}}#religion">Religious Foundation</a></li>
-                                                    <li><a href="{{ route('about')}}#apply">Apply To Mwalimu</a></li>
+                                                    
                                                 </ul>
                                             </li>
                                         </ul>
