@@ -8,15 +8,15 @@
    <!--==============================
     Breadcumb
 ============================== -->
-<div class="breadcumb-wrapper " data-bg-src="https://fakeimg.pl/1200x600?text=Mwalimu+Blog">
+<div class="breadcumb-wrapper " data-bg-src="">
         <div class="container z-index-common">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Our Blogs</h1>
-                <p class="breadcumb-text">Montessori Is A Nurturing And Holistic Approach To Learning</p>
+                <h1 class="breadcumb-title">News Articles</h1>
+                <p class="breadcumb-text">The Future Begins Now</p>
                 <div class="breadcumb-menu-wrap">
                     <ul class="breadcumb-menu">
                         <li><a href="{{ route('home.index')}}">Home</a></li>
-                        <li>Our Blogs</li>
+                        <li>Our News Articles</li>
                     </ul>
                 </div>
             </div>
@@ -56,66 +56,32 @@
                 </div>
                 <div class="col-lg-4">
                     <aside class="sidebar-area">
-                        <div class="widget widget_search   ">
+                        {{-- <div class="widget widget_search   ">
                             <h3 class="widget_title">Search</h3>
                             <form class="search-form">
                                 @csrf
                                 <input type="text" placeholder="Search Here">
                                 <button type="submit"><i class="far fa-search"></i></button>
                             </form>
-                        </div>
+                        </div> --}}
                         <div class="widget widget_categories   ">
                             <h3 class="widget_title">Categories</h3>
                             <ul>
+                               
                                 <li>
-                                    <a href="#">TODDLER</a>
+                                    <a href="#">Kindergarten Section</a>
                                 </li>
                                 <li>
-                                    <a href="#">PRESCHOOL</a>
-                                </li>
-                                <li>
-                                    <a href="#">KINDERGARTEN</a>
-                                </li>
-                                <li>
-                                    <a href="#">PRE-K PROGRAM</a>
-                                </li>
-                                <li>
-                                    <a href="#">AFTER SCHOOL</a>
+                                    <a href="#">Primary Section</a>
                                 </li>
                             </ul>
                         </div>
            
-                        {{-- <div class="widget widget_tag_cloud   ">
-                            <h3 class="widget_title">Upcoming Events</h3>
-                            <div class="vs-event-widget">
-                                <div class="recent-event">
-                                    <a href="event-details.html" class="event-date"><span class="month">Dec</span>24</a>
-                                    <div class="media-body">
-                                        <h4 class="event-title"><a href="event-details.html"
-                                                class="text-inherit">Father`s Day Sundaes & Shaving!</a></h4>
-                                    </div>
-                                </div>
-                                <div class="recent-event">
-                                    <a href="event-details.html" class="event-date"><span class="month">Dec</span>24</a>
-                                    <div class="media-body">
-                                        <h4 class="event-title"><a href="event-details.html"
-                                                class="text-inherit">Father`s Day Sundaes & Shaving!</a></h4>
-                                    </div>
-                                </div>
-                                <div class="recent-event">
-                                    <a href="event-details.html" class="event-date"><span class="month">Dec</span>24</a>
-                                    <div class="media-body">
-                                        <h4 class="event-title"><a href="event-details.html"
-                                                class="text-inherit">Father`s Day Sundaes & Shaving!</a></h4>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> --}}
                         <div class="widget bg-vs-secondary  " data-bg-src="assets/img/bg/widget-bg-1-1.png">
                             <h4 class="mt-n2 text-white">Join together to make amazing things happen</h4>
                             <p class="mb-4 pb-1 text-white">Get all the latest information, support and guidance about
                                 the cost of living with kindergarten.</p>
-                            <a href="registration.html" class="vs-btn">Start Registration</a>
+                            <a href="{{route('contact')}}" class="vs-btn">Start Registration</a>
                         </div>
                     </aside>
 

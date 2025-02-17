@@ -287,13 +287,9 @@
                             </nav>
                             <button class="vs-menu-toggle d-inline-block d-lg-none"><i class="fal fa-bars"></i></button>
                         </div>
-                        <div class="col-auto  d-none d-lg-block">
-                            <div class="header-icons">
-                                <button class="simple-icon sideMenuToggler"><i class="far fa-bars"></i></button>
-                            </div>
-                        </div>
+             
                         <div class="col-auto d-none d-xl-block">
-                            <a href="#" class="vs-btn sideMenuToggler">Apply Today</a>
+                            <a href="{{route('contact')}}" class="vs-btn">Apply Today</a>
                         </div>
                     </div>
                 </div>
