@@ -222,15 +222,21 @@
                 </div>
 
                 <div class="col-lg-6 text-center text-lg-start">
-                    <span class="sec-subtitle">part of the family since 2012,</span>
-                    <h2 class="sec-title">Your Child Will Take The Lead Learning</h2>
-                    <p class="sec-text pe-xl-5 mb-4 pb-xl-3">We believe that every child is unique and we therefore aim to meet their individual needs to support their learning effectively. We are affiliated with the Seventh Day Adventist church. However, we do not discriminate on religious grounds. We offer equal opportunities to all children from all religious backgrounds.</p>
+                    <span class="sec-subtitle">About Us</span>
+                    <h2 class="sec-title">About MJS | An Intro</h2>
+                    <p class="sec-text pe-xl-5 mb-4 pb-xl-3">Located in Mityana, Mwalimu Junior School is a
+                        Seventh-day Adventist-affiliated institution offering
+                        holistic education for Kindergarten and Primary
+                        learners. We provide a safe, faith-based environment
+                        for both day and boarding students, focusing on
+                        academic excellence and modern life skills
+                        development.</p>
                     <div class="row gx-70 justify-content-center justify-content-lg-start text-md-start">
                         <div class="col-auto">
                             <div class="vs-media media-style1">
                                 <div class="media-icon"><img src="assets/img/icon/ab-1-1.svg" alt="icon"></div>
                                 <div class="media-body">
-                                    <p class="media-label">75</p>
+                                    <p class="media-label">10+</p>
                                     <p class="media-title">Outdoor Activities</p>
                                 </div>
                             </div>
@@ -239,7 +245,7 @@
                             <div class="vs-media media-style1">
                                 <div class="media-icon"><img src="assets/img/icon/ab-1-2.svg" alt="icon"></div>
                                 <div class="media-body">
-                                    <p class="media-label">23</p>
+                                    <p class="media-label">23+</p>
                                     <p class="media-title">Loving Teachers</p>
                                 </div>
                             </div>
@@ -262,15 +268,14 @@
                     <div class="bubble"></div>
                     <div class="bubble"></div>
                 </div>
-                <h2 class="sec-title">Enrol Your Child In A Session Now!</h2>
-                <p class="sec-text">Pre-school has an ‘open door policy’ and also offer a free trial session to all
-                    children.</p>
+                <h2 class="sec-title">Enroll Your Child Now!</h2>
+                <p class="sec-text">At Mwalimu Junior School, we are committed to nurturing tomorrow's leaders today!</p>
             </div>
             <div class="row vs-carousel" data-slide-show="4" data-ml-slide-show="3" data-lg-slide-show="3"
                 data-md-slide-show="2">
                 <div class="service-style1 col-xl-3">
                     <div class="service-body">
-                        <div class="service-img"><a href="#"><img src="{{ asset('assets/images/mwalimuImage-no.22.jpg')}}"
+                        <div class="service-img"><a href="#"><img src="{{ asset('assets/images/learning.jpg')}}"
                                     alt="service"></a></div>
                         <div class="service-content">
                             <div class="service-icon"><img src="assets/img/icon/sr-1-1.svg" alt="icon"></div>
@@ -278,7 +283,7 @@
                             <p class="service-text">We have a very large indoor space allowing us to have designated
                                 areas for different types</p>
                             <div class="service-bottom">
-                                <a href="#" class="service-btn">Learn More</a>
+                                <a href="{{ route('about')}}" class="service-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -293,14 +298,14 @@
                             <p class="service-text">We have a very large indoor space allowing us to have designated
                                 areas for different types</p>
                             <div class="service-bottom">
-                                <a href="#" class="service-btn">Learn More</a>
+                                <a href="{{ route('about')}}" class="service-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="service-style1 col-xl-3">
                     <div class="service-body">
-                        <div class="service-img"><a href="#"><img src="{{ asset('assets/images/mwalimuImage-no.22.jpg')}}"
+                        <div class="service-img"><a href="#"><img src="{{ asset('assets/images/meal.jpg')}}"
                                     alt="service"></a></div>
                         <div class="service-content">
                             <div class="service-icon"><img src="assets/img/icon/sr-1-3.svg" alt="icon"></div>
@@ -308,14 +313,14 @@
                             <p class="service-text">We have a very large indoor space allowing us to have designated
                                 areas for different types</p>
                             <div class="service-bottom">
-                                <a href="#" class="service-btn">Learn More</a>
+                                <a href="{{ route('about')}}" class="service-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="service-style1 col-xl-3">
                     <div class="service-body">
-                        <div class="service-img"><a href="#"><img src="{{ asset('assets/images/mwalimuImage-no.20.png')}}"
+                        <div class="service-img"><a href="#"><img src="{{ asset('assets/images/mwalimu (8).jpg')}}"
                                     alt="service"></a></div>
                         <div class="service-content">
                             <div class="service-icon"><img src="assets/img/icon/sr-1-4.svg" alt="icon"></div>
@@ -323,7 +328,7 @@
                             <p class="service-text">We have a very large indoor space allowing us to have designated
                                 areas for different types</p>
                             <div class="service-bottom">
-                                <a href="#" class="service-btn">Learn More</a>
+                                <a href="{{ route('about')}}" class="service-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -376,8 +381,8 @@
                 <div class="row justify-content-between text-center text-md-start">
                     <div class="col-md-auto">
                         <div class="title-area">
-                            <span class="sec-subtitle">choose your own grade level</span>
-                            <h2 class="sec-title">Classed Offered</h2>
+                            <span class="sec-subtitle">Enroll in your class today!</span>
+                            <h2 class="sec-title">Classes Offered</h2>
                         </div>
                     </div>
                     <div class="col-md-auto align-self-end">
@@ -396,10 +401,7 @@
                             <div class="category-bg1"></div>
                             <div class="category-bg2"></div>
                             <div class="category-bg3"></div>
-                            <div class="category-grade">
-                                <span class="grade-label">Kindergaten Level</span>
-                                <span class="grade-name">A+</span>
-                            </div>
+                          
                             <h3 class="category-name h4"><a href="#" class="text-inherit"></a>Baby Class</h3>
                             <p class="category-label">( 3 - 4 Years )</p>
                         </div>
@@ -409,10 +411,7 @@
                             <div class="category-bg1"></div>
                             <div class="category-bg2"></div>
                             <div class="category-bg3"></div>
-                            <div class="category-grade">
-                            <span class="grade-label">Kindergaten Level</span>
-                                <span class="grade-name">A+</span>
-                            </div>
+                      
                             <h3 class="category-name h4"><a href="#" class="text-inherit"></a>Middle Class</h3>
                             <p class="category-label">( 5 - 6 Years )</p>
                         </div>
@@ -422,10 +421,7 @@
                             <div class="category-bg1"></div>
                             <div class="category-bg2"></div>
                             <div class="category-bg3"></div>
-                            <div class="category-grade">
-                            <span class="grade-label">Kindergaten Level</span>
-                                <span class="grade-name">A+</span>
-                            </div>
+                          
                             <h3 class="category-name h4"><a href="#" class="text-inherit"></a>Middle Class</h3>
                             <p class="category-label">( 6 - 7 Years )</p>
                         </div>
@@ -435,10 +431,7 @@
                             <div class="category-bg1"></div>
                             <div class="category-bg2"></div>
                             <div class="category-bg3"></div>
-                            <div class="category-grade">
-                            <span class="grade-label">Primary Level</span>
-                                <span class="grade-name">A+</span>
-                            </div>
+                           
                             <h3 class="category-name h4"><a href="#" class="text-inherit"></a>P1 - P6</h3>
                             <p class="category-label">( 8 Years And Above )</p>
                         </div>
@@ -459,8 +452,7 @@
                     <div class="table-style1">
                         <div class="table-icon"><i class="fal fa-alarm-clock"></i></div>
                         <h2 class="sec-title">Session Times</h2>
-                        <p class="sec-text">We provide full day care from 8.30am to 3.30pm for children aged 18 months
-                            to 5 years,</p>
+                        <p class="sec-text">We provide full day care from 8.30am to 3.30pm for children</p>
                         <div class="table-body">
                             <div class="tr">
                                 <div class="th">Early Drop Off</div>
@@ -497,13 +489,13 @@
                     <div class="bubble"></div>
                     <div class="bubble"></div>
                 </div>
-                <h2 class="sec-title">Our Pricing System</h2>
-                <p class="sec-text">Our school program pricing system</p>
+                <h2 class="sec-title">Our Registration Prices</h2>
+                <p class="sec-text">Our school registration program prices.</p>
             </div>
             <div class="row gx-50 gy-gx">
                 <div class="col-md-6">
                     <div class="class-style1">
-                        <div class="class-img"><a href="#"><img src="{{ asset('assets/images/mwalimuImage-no.4.jpg')}}"
+                        <div class="class-img"><a href="#"><img src="{{ asset('assets/images/mwalimu (11).jpg')}}"
                                     alt="class"></a></div>
                         <div class="class-content">
                             <h3 class="class-title"><a class="text-inherit" href="#">Interview Pricing</a></h3>
@@ -515,7 +507,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="class-style1">
-                        <div class="class-img"><a href="#"><img src="{{ asset('assets/images/mwalimuImage-no.3.jpg')}}"
+                        <div class="class-img"><a href="#"><img src="{{ asset('assets/images/mwalimu (10).jpg')}}"
                                     alt="class"></a></div>
                          <div class="class-content">
                             <h3 class="class-title"><a class="text-inherit" href="#">Registration Pricing</a></h3>
