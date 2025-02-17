@@ -474,75 +474,49 @@ learning.
 
             </div>
         </div>
-    </section><!--==============================
-    Testimonial Area
-    ==============================-->
+    </section>
+    
+    
     <section class=" space-extra-bottom">
-        <div class="container">
+        <div class="container ">
             <div class="row justify-content-between text-center text-md-start">
                 <div class="col-md-auto">
                     <div class="title-area">
-                        <span class="sec-subtitle">Our Service Reviews</span>
-                        <h2 class="sec-title">What Parents Say</h2>
-                    </div>
-                </div>
-                <div class="col-md-auto align-self-end">
-                    <div class="sec-btns">
-                        <button class="icon-btn" data-slick-prev=".testislide3"><i
-                                class="far fa-arrow-left"></i></button>
-                        <button class="icon-btn" data-slick-next=".testislide3"><i
-                                class="far fa-arrow-right"></i></button>
+                        <span class="sec-subtitle">Fees Structure</span>
+                        <h2 class="sec-title">Our Fees Structure</h2>
                     </div>
                 </div>
             </div>
-            <div class="row vs-carousel testislide3" data-slide-show="2" data-md-slide-show="2">
-                <div class="col-lg-6">
-                    <div class="testi-style2">
-                        <p class="testi-text">The caring teachers and well-structured curriculum at Mwalimu Junior School make learning exciting for the children. My daughter looks forward to school every day, and her reading and social skills have improved immensely</p>
-                        <div class="testi-body">
-                            <div class="testi-icon"><i class="fas fa-quote-left"></i></div>
-                            <div class="media-body">
-                                <h3 class="testi-name h4">Ssenyonjo H.</h3>
-                                <div class="testi-rating"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
-                                        class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                                </div>
-                            </div>
-                        </div>
+            <div class="row vs-carousel gx-15 catslider1" data-slide-show="5" data-lg-slide-show="4"
+                data-md-slide-show="3" data-sm-slide-show="2" data-xs-slide-show="2">
+                <div class="col-xl-3">
+                    <div class="category-style1">
+                        <div class="category-bg1"></div>
+                        <div class="category-bg2"></div>
+                        <div class="category-bg3"></div>
+                      
+                        <h3 class="category-name h4"><a href="#" class="text-inherit"></a>Primary Section</h3>
+                        <p class="category-label">Boarding: UGX 620,000</p>
+                        <p class="category-label">Day: UGX 350,000</p>
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <div class="testi-style2">
-                        <p class="testi-text">From the warm welcome at the gate to the engaging classrooms, Mwalimu Junior School feels like a second home for my son. The school has helped him adjust quickly and develop a love for learning</p>
-                        <div class="testi-body">
-                            <div class="testi-icon"><i class="fas fa-quote-left"></i></div>
-                            <div class="media-body">
-                                <h3 class="testi-name h4">Mark T.</h3>
-                                <div class="testi-rating"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
-                                        class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                                </div>
-                            </div>
-                        </div>
+                <div class="col-xl-3">
+                    <div class="category-style1">
+                        <div class="category-bg1"></div>
+                        <div class="category-bg2"></div>
+                        <div class="category-bg3"></div>
+                  
+                        <h3 class="category-name h4"><a href="#" class="text-inherit"></a>Nursery Section</h3>
+                        <p class="category-label">Day: UGX 350,000</p>
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <div class="testi-style2">
-                        <p class="testi-text">Mwalimu Junior School combines academic excellence with a focus on character development. My child is not only excelling in academics but is also learning important life skills. We couldn’t be happier!</p>
-                        <div class="testi-body">
-                            <div class="testi-icon"><i class="fas fa-quote-left"></i></div>
-                            <div class="media-body">
-                                <h3 class="testi-name h4">Benson M.</h3>
-                                <div class="testi-rating"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
-                                        class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
-    </section><!--==============================
-    Instagram Posts
-    ==============================-->
+    </section>
+
+
+
     <section class=" space-bottom">
         <div class="container">
             <div class="title-area text-center">

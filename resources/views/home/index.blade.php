@@ -11,7 +11,7 @@
 
             <!-- Slide 1-->
             <div class="ls-slide" data-ls="duration:12000; transition2d:5; kenburnszoom:in; kenburnsscale:1.1;">
-                <img width="100%" src="assets/images/mwalimuImage-no.7.JPG" class="ls-bg" alt="Mwalimu Junior School"
+                <img width="100%" src="{{ asset('assets/images/mwalimu (1).jpg')}}" class="ls-bg" alt="Mwalimu Junior School"
                     decoding="async">
                 <ls-layer
                     style="font-size:36px; color:#000; stroke:#000; stroke-width:0px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; border-style:solid; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; width:255px; height:255px; border-width:60px 60px 60px 60px; border-color:#FFD600; border-radius:50% 50% 50% 50%; top:126px; left:740px; z-index:4; -webkit-background-clip:border-box;"
@@ -40,7 +40,7 @@
                 <div style="font-size:30px; color:#000; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:100%; top:494px; font-family:'Fredoka', sans-serif; width:711px; margin-left:-877px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:100; delayin:700; easingin:easeOutQuint; offsetyout:100; easingout:easeOutQuint;">
-                    <a href="contact.html" class="vs-btn">Apply Today</a>
+                    <a href="{{route('contact')}}" class="vs-btn">Apply Today</a>
                 </div>
                 <h1 style="font-size:90px; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; font-family:'Fredoka', sans-serif; line-height:90px; color:#ffffff; top:141px; left:50%; width:1200px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer"
@@ -59,7 +59,7 @@
                 <div style="font-size:30px; color:#000; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:50%; top:495px; font-family:'Fredoka', sans-serif; width:1200px; margin-left:0px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:100; delayin:700; easingin:easeOutQuint; offsetyout:100; easingout:easeOutQuint;">
-                    <a href="#" class="vs-btn">Apply Today</a>
+                    <a href="{{route('contact')}}" class="vs-btn">Apply Today</a>
                 </div>
                 <h1 style="font-size:110px; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; font-family:'Fredoka', sans-serif; line-height:110px; color:#ffffff; top:113px; left:50%; width:1200px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer"
@@ -74,7 +74,7 @@
                 <div style="font-size:30px; color:#000; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:50%; top:430px; font-family:'Fredoka', sans-serif; width:1200px; margin-left:0px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer"
                     data-ls="offsetyin:100; delayin:700; easingin:easeOutQuint; offsetyout:100; easingout:easeOutQuint;">
-                    <a href="contact.html" class="vs-btn">Apply Today</a>
+                    <a href="{{route('contact')}}" class="vs-btn">Apply Today</a>
                 </div>
             </div>
 
@@ -412,20 +412,11 @@
                             <div class="category-bg2"></div>
                             <div class="category-bg3"></div>
                       
-                            <h3 class="category-name h4"><a href="#" class="text-inherit"></a>Middle Class</h3>
+                            <h3 class="category-name h4"><a href="#" class="text-inherit"></a>Kindergarten</h3>
                             <p class="category-label">( 5 - 6 Years )</p>
                         </div>
                     </div>
-                    <div class="col-xl-3">
-                        <div class="category-style1">
-                            <div class="category-bg1"></div>
-                            <div class="category-bg2"></div>
-                            <div class="category-bg3"></div>
-                          
-                            <h3 class="category-name h4"><a href="#" class="text-inherit"></a>Middle Class</h3>
-                            <p class="category-label">( 6 - 7 Years )</p>
-                        </div>
-                    </div>
+
                     <div class="col-xl-3">
                         <div class="category-style1">
                             <div class="category-bg1"></div>
