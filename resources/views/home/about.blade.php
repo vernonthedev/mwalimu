@@ -95,68 +95,32 @@
                 </div>
             </div>
         </div>
-    </section><!--==============================
-    Team Area
-    ==============================-->
-    <section class=" space-top space-extra-bottom bg-smoke">
-        <div class="container">
-            <div class="title-area text-center">
-                <div class="sec-bubble">
-                    <div class="bubble"></div>
-                    <div class="bubble"></div>
-                    <div class="bubble"></div>
-                </div>
-                <h2 class="sec-title">Qualified Teachers</h2>
-                <p class="sec-text">We are constantly expanding the range of services offered</p>
-            </div>
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="team-style1">
-                        <div class="team-img">
-                            <a href="#"><img src="assets/img/mwalimu.png" alt="team"></a>
-                        </div>
-                        <div class="team-content">
-                            <h3 class="team-name h2"><a href="#" class="text-inherit">Katie Willmore</a>
-                            </h3>
-                            <p class="team-degi">Principal</p>
-                            <a href="tel:+25602076897888" class="team-number">+256 (0) 207 689 7888</a>
-                            <div class="vs-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-3">
-                    <div class="team-style2">
-                        <div class="team-img"><a href="#"><img src="assets/img/mwalimu.png"
-                                    alt="team"></a></div>
-                        <h3 class="team-name"><a class="text-inherit" href="#">Jessica Levis</a></h3>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-3">
-                    <div class="team-style2">
-                        <div class="team-img"><a href="#"><img src="assets/img/mwalimu.png"
-                                    alt="team"></a></div>
-                        <h3 class="team-name"><a class="text-inherit" href="#">Nomina Leione</a></h3>
-                    </div>
-                </div>
-            </div>
-            <div class="row text-center text-lg-start mt-lg-5 pt-4 align-items-center justify-content-between">
-                <div class="col-lg-8 col-xl-9">
-                    <div class="title-area mb-xl-0">
-                        <span class="sec-subtitle">learning by connecting practice</span>
-                        <h2 class="sec-title">Promoting high quality learning of Young Children</h2>
-                    </div>
-                </div>
-                <div class="col-lg-auto">
-                    <div class="sec-btns mb-0">
-                        <a href="{{ route('contact')}}" class="vs-btn">Start Registration</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section><!--==============================
+    </section>
+
+    <style>
+        .section-video {
+  width: 100%;
+  height: 100%; 
+  object-fit: cover; 
+  display: block;
+}
+
+    </style>
+
+    <section class="space-top space-extra-bottom bg-smoke">
+        <video autoplay loop muted playsinline class="section-video">
+          <source src="{{ asset('assets/video/advert.mp4') }}" type="video/mp4">
+          <source src="{{ asset('assets/video/advert.webm') }}" type="video/webm">
+          Your browser does not support HTML5 video.
+        </video>
+      </section>
+      
+    
+    
+    
+    
+    <!--==============================
+   
     History Area
     ==============================-->
     <section class=" space-top space-extra-bottom">

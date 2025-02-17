@@ -50,6 +50,28 @@
 
 <body>
 
+    <!-- Custom Scroll Bar Configurations-->
+    <style>
+        body::-webkit-scrollbar {
+            width: 10px;            
+        }
+        body::-webkit-scrollbar-track {
+            background: #fff;       
+        }
+        body::-webkit-scrollbar-thumb {
+            background-color: #e8063c;  
+            border-radius: 20px;     
+            border: 3px solid ffc107;  
+        }
+        #whatsap {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            z-index: 100;
+            width: 240px;
+        }
+    </style>
+
 
 
 

@@ -5,7 +5,7 @@
     <!--==============================
       Hero Area
     ==============================-->
-    <section class="vs-hero-wrapper  ">
+ <section class="vs-hero-wrapper  ">
         <div class="vs-hero-carousel" data-height="770" data-container="1900" data-slidertype="responsive"
             data-navbuttons="true">
 
@@ -199,7 +199,9 @@
             </div>
 
         </div>
-    </section>
+    </section> 
+
+    
     
     
     <!--==============================
