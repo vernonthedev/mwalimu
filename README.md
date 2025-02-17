@@ -1,4 +1,4 @@
-<!-- ## **Laravel School Management System** 
+## **Laravel School Management System** 
 
 **SCREENSHOTS** 
 
@@ -107,9 +107,6 @@ After seeding. Login details as follows:
 
 Your Contributions & suggestions are welcomed. Please use Pull Request
 
-### **Security Vulnerabilities**
-
-If you discover a security vulnerability within LAV_SMS, please send an e-mail to Veike Agency via cjay.pub@gmail.com. All security vulnerabilities will be promptly addressed.
 
 ***Please Note*** that some sections of this project are in the work-in-progress stage and would be updated soon. These include:
 
@@ -117,5 +114,4 @@ If you discover a security vulnerability within LAV_SMS, please send an e-mail t
 - Librarian/Acountant user pages
 - Library Resources/Study Materials Upload for Students
 
-### **Contact [Veike Agency]**
-- Phone : +2347068149559 -->
+
